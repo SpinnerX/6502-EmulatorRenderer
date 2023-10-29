@@ -15,7 +15,7 @@ what if we have multiple windows simultaneously receiving, and sending data to t
 These are considerations when looking into this project.
 
 ## Plan (In-Development)
-1. Implement UI
+# 1. Implement UI
 This is just the first part, which is another learning curve. Where I will take a look into how to use OpenGL \
 for  rendering, windows, widgets, event handlers, etc. Using concepts of graphics programming into use. \
 While also maintaining the goal of easier use, or even generic thing that calls a thing. In which, should work. \
