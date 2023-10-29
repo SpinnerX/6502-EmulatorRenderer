@@ -24,7 +24,7 @@ At least that'll be the idea for right now (lol), as I think more about it. \
     1.2. Applying different rendering techniques and algorithms for efficiency \
          in rendering graphics (quadtrees, etc.) \
 
-2. Widgets, Interface, Graphics Development
+# 2. Widgets, Interface, Graphics Development
     2.1. Creating widgets
         - Widgets should be audo-adjustable
         - Allowing for drag and drop options
