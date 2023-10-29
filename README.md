@@ -1,4 +1,4 @@
-# 6502 Emulator Renderer
+# 6502 Emulator Renderer (In progess of adding more stuff...)
 
 ## Overview
 The renderer that will be part of the 6502 Emulator. This renderer will have tools and \
@@ -20,7 +20,7 @@ These are considerations when looking into this project.
     for  rendering, windows, widgets, event handlers, etc. Using concepts of graphics programming into use.
     While also maintaining the goal of easier use, or even generic thing that calls a thing. In which, should work.
     At least that'll be the idea for right now (lol), as I think more about it.
-    
+
     1.1. Learn OpenGL such as textures, shaders, VertexBuffers, etc.
     1.2. Applying different rendering techniques and algorithms for efficiency
          in rendering graphics (quadtrees, etc.)
