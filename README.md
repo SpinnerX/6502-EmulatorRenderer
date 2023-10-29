@@ -24,6 +24,9 @@ These are considerations when looking into this project.
     1.1. Learn OpenGL such as textures, shaders, VertexBuffers, etc.
     1.2. Applying different rendering techniques and algorithms for efficiency
          in rendering graphics (quadtrees, etc.)
+    1.3. Looking into getting better at developing with OpenGL's renderering pipelines. Such as \
+         performing rendering operations. And requirements that rendering operations are needed \
+         in OpenGL.
 
 # 2. Widgets, Interface, Graphics Development
     2.1. Creating widgets
