@@ -16,10 +16,10 @@ These are considerations when looking into this project.
 
 ## Plan (In-Development)
 # 1. Implement UI
-This is just the first part, which is another learning curve. Where I will take a look into how to use OpenGL \
-for  rendering, windows, widgets, event handlers, etc. Using concepts of graphics programming into use. \
-While also maintaining the goal of easier use, or even generic thing that calls a thing. In which, should work. \
-At least that'll be the idea for right now (lol), as I think more about it. \
+    This is just the first part, which is another learning curve. Where I will take a look into how to use OpenGL \
+    for  rendering, windows, widgets, event handlers, etc. Using concepts of graphics programming into use. \
+    While also maintaining the goal of easier use, or even generic thing that calls a thing. In which, should work. \
+    At least that'll be the idea for right now (lol), as I think more about it. \
     1.1. Learn OpenGL such as textures, shaders, VertexBuffers, etc. \
     1.2. Applying different rendering techniques and algorithms for efficiency \
          in rendering graphics (quadtrees, etc.) \
